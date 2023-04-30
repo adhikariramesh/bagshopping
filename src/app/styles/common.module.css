@@ -1,0 +1,36 @@
+.container{
+    padding:5px 20px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.containerCenter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.homepage{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.termSection{
+    padding: 2rem 4rem;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+.head{
+    font-size: 25px;
+    text-transform: uppercase;
+    color: rgb(30, 28, 28);
+}
+.para{
+    width: 100%;
+    font-size: 14px;
+    color: rgb(94, 91, 91);
+    line-height: 25px;
+}
